@@ -1,0 +1,5 @@
+{
+    "require-dev": {
+        "dmitryrechkin/php-obfuscator": "^1.1"
+    }
+}
